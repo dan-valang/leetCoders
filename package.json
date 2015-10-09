@@ -1,0 +1,29 @@
+{
+  "name": "leet-coders",
+  "version": "1.0.0",
+  "description": "leet coders exercises",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dvalle-nearsoft/leetCoders.git"
+  },
+  "author": "Daniel Valle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dvalle-nearsoft/leetCoders/issues"
+  },
+  "homepage": "https://github.com/dvalle-nearsoft/leetCoders",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  },
+  "devDependencies": {
+    "locus": "^1.2.0"
+  }
+}
